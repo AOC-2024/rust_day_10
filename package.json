@@ -1,0 +1,7 @@
+{
+  "name": "day_10",
+  "scripts": {
+    "test": "cargo test",
+    "run": "cargo run"
+  }
+}
